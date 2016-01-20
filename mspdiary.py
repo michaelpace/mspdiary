@@ -13,7 +13,6 @@ DEFAULT_CONFIG = """
 text_editor=vim
 """
 CONFIG_FILE_PATH = BASE_PATH + 'config.ini'
-TEXT_EDITOR = None
 
 
 def main():
